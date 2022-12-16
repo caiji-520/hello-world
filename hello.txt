@@ -3,5 +3,8 @@ hello,git!
 hello,git!
 hello,hwh!
 hello,master!
+<<<<<<< HEAD
 +++++++++++
 --------- insert by beta
+++++++++++++
+************ insert by beta
